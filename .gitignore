@@ -11,7 +11,7 @@ syntax: glob
 *.rej
 *.so
 *.swp
-.coverage.*
+.coverage*
 .cache/
 .idea/
 .tox/
